@@ -1,0 +1,18 @@
+---
+title: "Synthèse biblio"
+author: "Théophile_KABASELE_WALELU"
+date: "08/11/2019"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+#INTRODUCTION 
+
+**Distinctive structural and functional features of Tropical Swamp Forests as compared to upland tropical forests**.
+
+**Caractéristiques structurelles et fonctionnelles distinctives des forêts marécageuses tropicales par rapport aux forêts tropicales des hautes terres**.
+
+avec ses milliers d'espèces vivantes et les mileiux d'les forêts tropicales sont des ecosystèmes les plus diversifiés sur terre. 
